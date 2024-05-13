@@ -1,7 +1,6 @@
 A C++ LSH Library
 
 Run procedure:
-./bin/mplsh-run -Q 200 -K 20 -R 320000 --recall 0.8 -D /mnt/d/Datasets/imagenet/imageNet_base.fvecs -B /mnt/d/Datasets/imagenet/imageNet_groundtruth.ivecs -Z /mnt/d/Datasets/imagenet/imageNet_query.fvecs -H 18017881 -T 1 -M 15 -L 15 -W 0.6
 
 NOTE:
 API DESCRIPTION IN THIS FILE MAY BE OUTDATED, SEE THE DOXYGEN GENERATED DOCUMENTATION FOR
