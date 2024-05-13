@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tan/lshkit-hadamard/tools/txt2bin.cpp
+cctype
+-
+cassert
+-
+iostream
+-
+fstream
+-
+string
+-
+boost/foreach.hpp
+-
+boost/format.hpp
+-
+
